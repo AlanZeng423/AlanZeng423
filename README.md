@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Alan Zeng!
 <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);std::cout%20<<%20%22Hello%2C%20World%22%20<<%20std::endl;&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);std%3A%3Acout+%3C%3C+%22Hello%2C+World%22+%3C%3C+std%3A%3Aendl%3B;&center=true&size=27" />
     </a>
 </div>
 
