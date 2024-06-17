@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 <a href="(https://github.com/AlanZeng423/github-readme-activity-graph">
-<img height=180 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AlanZeng423&theme=high-contrast" />
+<img height=180 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AlanZeng423&theme=tokyo-day" />
 </a>
 
 <a href="https://github.com/AlanZeng423/github-readme-stats">
