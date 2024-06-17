@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Alan Zeng!
 <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22)%3Bstd%3A%3Acout+%3C%3C+%22Hello%2C+World%22+%3C%3C+std%3A%3Aendl%3B&center=true&size=27" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&separator=%3D&lines=print(%22Hello%2C+this+is+Alan%22)%3Dstd%3A%3Acout+%3C%3C+%22Hello%2C+this+is+Alan%22+%3C%3C+std%3A%3Aendl;%3DSystem.out.println(%22Hello%2C+this+is+Alan%22);%3Dconsole.log(%22Hello%2C+this+is+Alan%22);" alt="Typing SVG" /></a>
 </div>
 
 <!--
