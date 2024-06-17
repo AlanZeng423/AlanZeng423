@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alan Zeng!
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74949&background=098CFF00&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=600&separator=%3D&lines=print(%22Hello%2C+this+is+Alan%22)%3Dstd%3A%3Acout+%3C%3C+%22Hello%2C+this+is+Alan%22+%3C%3C+std%3A%3Aendl;%3DSystem.out.println(%22Hello%2C+this+is+Alan%22);%3Dconsole.log(%22Hello%2C+this+is+Alan%22);" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74949&background=098CFF00&center=true&vCenter=true&random=false&width=600&separator=%3D&lines=print(%22Hello%2C+this+is+Alan%22)%3Dstd%3A%3Acout+%3C%3C+%22Hello%2C+this+is+Alan%22+%3C%3C+std%3A%3Aendl;%3DSystem.out.println(%22Hello%2C+this+is+Alan%22);%3Dconsole.log(%22Hello%2C+this+is+Alan%22);" alt="Typing SVG" /></a>
 </div>
 
 <!--
