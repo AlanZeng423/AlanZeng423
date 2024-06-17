@@ -35,10 +35,7 @@ Here are some ideas to get you started:
 [![AlanZeng423's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlanZeng423&theme=high-contrast)](https://github.com/AlanZeng423/github-readme-activity-graph)
 
 
-![AlanZeng423's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanZeng423&show_icons=true&theme=transparent)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanZeng423&hide=html)
+![AlanZeng423's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanZeng423&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanZeng423&hide=html&layout=compact&theme=transparent)
 
 
 <div align="left">
