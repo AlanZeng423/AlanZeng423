@@ -7,7 +7,7 @@
 
 
 
-![AlanZeng423](https://komarev.com/ghpvc/?username=AlanZeng423) 
+![AlanZeng423](https://komarev.com/ghpvc/?username=AlanZeng423&color=dc143c) 
 
 
 <!--
