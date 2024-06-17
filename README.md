@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAlanZeng423&query=%24.data.totalSubs&logo=github&label=GitHub">
 
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=AlanZeng423&theme=dracula)
+
+
+
 <div align="left">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=AlanZeng423" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanZeng423&layout=compact&langs_count=8" /><span>  </span>
