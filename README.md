@@ -38,6 +38,14 @@ Here are some ideas to get you started:
 ![AlanZeng423's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanZeng423&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanZeng423&hide=html&layout=compact&theme=transparent)
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AlanZeng423&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanZeng423&hide=html&layout=compact&theme=transparent" />
+</a
+
+
 <div align="left">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=AlanZeng423" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanZeng423&layout=compact&langs_count=8" /><span>  </span>
