@@ -7,9 +7,9 @@
 
 
 
-![AlanZeng423](https://komarev.com/ghpvc/?username=AlanZeng423&color=dc143c) 
 
-![Visitor Count](https://profile-counter.glitch.me/AlanZeng/count.svg)
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/AlanZeng/count.svg) visitor, Thank you!😄😄😄
 
 
 
