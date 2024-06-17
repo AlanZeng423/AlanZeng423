@@ -9,6 +9,9 @@
 
 ![AlanZeng423](https://komarev.com/ghpvc/?username=AlanZeng423&color=dc143c) 
 
+![Visitor Count](https://profile-counter.glitch.me/AlanZeng/count.svg)
+
+
 
 <!--
 **AlanZeng423/AlanZeng423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
